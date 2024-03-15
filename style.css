@@ -1,6 +1,17 @@
 *{
     box-sizing: border-box;
 }
+html> body{
+    height: 98%;
+ }
+ body{
+    padding: 1%;
+    margin: 0;
+    line-height: 1.4;
+ }
+ body {
+        display: block;
+ }
 body{
     background-image: url(bg.jfif);
     height: 100vh;
@@ -109,6 +120,7 @@ p {
     border-bottom: 10px;
     color: rgb(43, 34, 2);
 }
+
 @media (max-width: 600px) {
     html, body, .main, .container {
         width: 100%;
@@ -124,18 +136,53 @@ p {
         margin-top: 20px;
         margin-left: 73px;
     }
+    #vid{
+        margin-left: 15px;
+    }
+}
+    /*@media(min-width: 481px) and (max-width: 768px){
+        html, body, .main, .container{
+            width: 100%;
+        }
+        .nav_links li, nav, nav ul li, ul li a{
+            display: inline-block;
+            padding: 10px;
+            font-size: 15px;
+        }
+        #p1{
+            font-size: 35px;
+            margin-top: 25px;
+            margin-left: 80px;
+        }
+        #vid{
+            margin-left: 0;
+        }*/
+        /*@media (max-width: 600px) {
+    html, body, .main, .container {
+        width: 100%;
+        margin: 0;
+    }
+    .nav_links li, nav, nav ul li, ul li a{
+        display: inline-block;
+        font-size: 12px;
+        padding: 5px;
+    }
+    #p1{
+        font-size: 30px;
+        margin-top: 20px;
+        margin-left: 73px;
+    }
      #p2{
-       /* padding-left: 15px;
-        padding-right: 15px;*/
-       /* text-align: center;*/
+        padding-left: 15px;
+        padding-right: 15px;
+        text-align: center;
         font-size: 15px;
     }
     #vid{
         margin-left: 15px;
     }
-}
-
-/* @media(min-width: 481px){
+}*/
+ /*   @media(min-width: 481px){
         html, body, .main, .container{
             width: 100%;
         }
@@ -159,3 +206,8 @@ p {
             margin-left: 0;
         }
 }*/
+
+
+
+
+   
