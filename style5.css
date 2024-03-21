@@ -212,7 +212,7 @@ header{
     background-color: hsl(0, 0%, 77%);
     border-radius: 5px;
 }
-@media(max-width: 600px){
+/**@media(max-width: 600px){
     html, body, .main, .container{
         width: 100%;
         margin: 0;
@@ -237,4 +237,17 @@ header{
         text-align: center;
         font-size: 8px;    
     }
-} 
+} */
+@media only screen and (max-width: 600px) {
+    .photos img{
+        flex direction: row;
+    }.photos img {
+        margin-bottom: 0;
+    }
+}
+@media only screen and (min-width: 900px) {
+    .photos img {
+        flex-direction: row;
+        margin-botoom: 0;
+    }
+}
