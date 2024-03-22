@@ -170,11 +170,11 @@ p {
         width: 100%;
         margin: 0;
     }
-}
     .nav_links li, nav, nav ul li, ul li a{
         display: inline-block;
         font-size: 12px;
         padding: 5px;
+        float: right;
     }
     #p1{
         font-size: 30px;
