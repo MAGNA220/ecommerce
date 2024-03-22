@@ -222,6 +222,7 @@ p {
     }.
     #vid {
         margin-bottom: 0;
+        width: fit-content;
         align-content: center;
     }
     .main, body {
@@ -230,6 +231,7 @@ p {
     }
     .nav_links li, nav, nav ul li, ul li a{
           list-style-type: none;
+          position: absolute;
           margin: 0;
           padding: 0;
           overflow: hidden;
