@@ -176,7 +176,7 @@ p {
     font-size: 0.8rem ; 
     }
     body{
-        height: 60vh;
+        height: fit-content;
     }
 }
     
