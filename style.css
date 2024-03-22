@@ -221,6 +221,10 @@ p {
     #vid{
         margin-bottom: 0;
     }
+    .main {
+    width: fit-content;
+    margin: auto;
+    }
 }
 @media only screen and (min-width: 900px) {
     #vid{
