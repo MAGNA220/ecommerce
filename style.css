@@ -218,6 +218,7 @@ p {
     #vid {
         flex direction: row;
         display: inline;
+        float: none;
     }.
     #vid {
         margin-bottom: 0;
@@ -227,7 +228,7 @@ p {
     width: fit-content;
     margin: auto;
     }
-    .nav_links li, nav, nav ul li, ul li a{
+    .nav_links li{
             display: inline;
             font-size: small;
     }
