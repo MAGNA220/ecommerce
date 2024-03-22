@@ -227,7 +227,8 @@ p {
     margin: auto;
     }
     .nav_links li, nav, nav ul li, ul li a{
-            display: inline;
+            display: inline-block;
+            font-size: small;
     }
 }
 @media only screen and (min-width: 900px) {
