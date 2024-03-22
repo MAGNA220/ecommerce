@@ -222,7 +222,6 @@ p {
     }.
     #vid {
         margin-bottom: 0;
-        margin-right: 300px;
         align-items: center;
     }
     .main, body {
@@ -237,7 +236,6 @@ p {
           float: right;
           font-size: 7px;
           justify-content: space-between;
-          align-items: baseline;
     }
 }
 @media only screen and (min-width: 900px) {
