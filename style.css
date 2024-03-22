@@ -222,7 +222,7 @@ p {
     }.
     #vid {
         margin-bottom: 0;
-        align-items: center;
+        align-content: center;
     }
     .main, body {
     width: fit-content;
@@ -235,6 +235,7 @@ p {
           overflow: hidden;
           float: right;
           font-size: 7px;
+          gap: 10px;
           justify-content: space-between;
     }
 }
