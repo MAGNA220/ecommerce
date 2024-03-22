@@ -175,13 +175,14 @@ p {
         font-size: 12px;
         padding: 5px;
     }
-        nav ul {
-            position: foxed;
-            top: 80px;
-            left: -100%;
-            height: 100vh;
-            width: 100%;
+        nav {
+        float: right;
         }
+            
+            
+            
+    
+        
     #p1{
         font-size: 30px;
         margin-top: 20px;
