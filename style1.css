@@ -178,5 +178,8 @@ p {
     body{
         height: fit-content;
     }
+    .main{
+        width: 905px;
+    }
 }
     
