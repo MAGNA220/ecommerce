@@ -217,18 +217,17 @@ p {
 @media only screen and (max-width: 600px) {
     #vid, body{
         flex direction: row;
-        display: center;
+        display: inline-block;
     }.
     #vid, body{
         margin-bottom: 0;
-        margin-left: auto;
     }
     .main, body {
     width: fit-content;
     margin: auto;
     }
     .nav_links li, nav, nav ul li, ul li a{
-            display: inline-block;
+            display: none;
     }
 }
 @media only screen and (min-width: 900px) {
