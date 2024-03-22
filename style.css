@@ -248,6 +248,19 @@ p {
     font-size: 0.8rem ; 
     }
     body{
-        height: 60vh;
+        height: 950px;
+    }
+}
+@media (min-width: 640px) {
+    .logo{
+        width: 150px;
+        height: 100px;
+    }
+    .nav_links li, ul li a {
+    font-size: 0.5rem ; 
+    }
+    body{
+        height: 850px;
+        width: 850px;
     }
 }
