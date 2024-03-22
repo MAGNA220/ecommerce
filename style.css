@@ -171,15 +171,11 @@ p {
         margin: 0;
     }
 }
-.logo {
-    width: 100px;
-    height: 100px;
-    margin-left: 0;
-}
     .nav_links li, nav, nav ul li, ul li a{
         display: inline-block;
         font-size: 12px;
         float: right;
+        position:absolute;
         padding: 5px;
     }
     #p1{
