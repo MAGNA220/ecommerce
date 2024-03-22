@@ -218,7 +218,6 @@ p {
     #vid, body{
         flex direction: row;
         display: inline;
-        float: left; 
     }.
     #vid, body{
         margin-bottom: 0;
