@@ -215,12 +215,13 @@ p {
         }
 }*/
 @media only screen and (max-width: 600px) {
-    #vid, body{
+    #vid {
         flex direction: row;
         display: inline;
     }.
-    #vid, body{
+    #vid {
         margin-bottom: 0;
+        margin-left: 0;
     }
     .main, body {
     width: fit-content;
