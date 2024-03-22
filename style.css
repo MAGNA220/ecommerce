@@ -174,8 +174,6 @@ p {
     .nav_links li, nav, nav ul li, ul li a{
         display: inline-block;
         font-size: 12px;
-        float: right;
-        align-items: right;
         padding: 5px;
     }
     #p1{
