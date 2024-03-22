@@ -222,7 +222,6 @@ p {
     }.
     #vid {
         margin-bottom: 0;
-        width: fit-content;
         align-content: center;
     }
     .main, body {
