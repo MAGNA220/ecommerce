@@ -157,7 +157,7 @@ p {
     .nav_links li, ul li a {
     font-size: 0.8rem ; 
     }
-    body{
+    .main{
         height: max-content;
     }
 }
