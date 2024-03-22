@@ -1,13 +1,6 @@
 *{
     box-sizing: border-box;
 }
-:root {
-    view-transition-name: root;
-}
-user agent stylesheet
-html {
-    display: block;
-}
 body{
     background-image:  url(bg.jfif);
     -webkit-backdrop-filter: blur(2px) saturate(150%);
