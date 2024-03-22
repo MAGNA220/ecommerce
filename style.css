@@ -175,7 +175,7 @@ p {
         display: inline-block;
         font-size: 12px;
         float: right;
-        position:absolute;
+        align-items: right;
         padding: 5px;
     }
     #p1{
