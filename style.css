@@ -165,7 +165,7 @@ p {
         #vid{
             margin-left: 0;
         }*/
-    @media (max-width: 600px) {
+    /**@media (max-width: 600px) {
     html, body, .main, .container {
         width: 100%;
         margin: 0;
@@ -189,7 +189,7 @@ p {
     #vid{
         margin-left: 15px;
     }
-}
+}*/
  /** @media(min-width: 481px){
         html, body, .main, .container{
             width: 100%;
@@ -239,11 +239,12 @@ p {
           justify-content: space-between;
     }
 }
-@media only screen and (min-width: 900px) {
-    #vid{
-        flex-direction: row;
-        margin-bottom: 0;
-        width: fit-content;
-        margin-left: auto;
+@media (min-width: 900px) {
+    .logo{
+        width: 150px;
+        height: 100px;
     }
-}*/
+    .nav_links li, ul li a {
+    font-size: 0.8rem ; 
+    }
+}
