@@ -174,8 +174,11 @@ p {
         display: inline-block;
         font-size: 12px;
         padding: 5px;
-        float: right;
+        float: left;
     }
+        nav ul {
+            position: foxed;
+        }
     #p1{
         font-size: 30px;
         margin-top: 20px;
