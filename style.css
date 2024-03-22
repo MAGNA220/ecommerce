@@ -259,8 +259,7 @@ p {
     .nav_links li, ul li a {
     font-size: 0.5rem ; 
     }
-    body{
-        height: 850px;
-        width: 850px;
+    .main{
+        height: 1450px;
     }
 }
