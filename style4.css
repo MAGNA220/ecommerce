@@ -131,7 +131,7 @@ p {
     color: rgb(43, 34, 2);
 }
 
-  @media(max-width: 600px){
+ /** @media(max-width: 600px){
     html, body, .main, .container{
         width: 100%;
         margin: 0;
@@ -148,5 +148,17 @@ p {
         width:340px;
         margin-left: 12px;
       }
+}*/
+@media (min-width: 900px) {
+    .logo{
+        width: 150px;
+        height: 100px;
+    }
+    .nav_links li, ul li a {
+    font-size: 0.8rem ; 
+    }
+    body{
+        height: max-content;
+    }
 }
       
