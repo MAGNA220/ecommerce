@@ -222,7 +222,7 @@ p {
     }.
     #vid {
         margin-bottom: 0;
-        margin-left: 0;
+        margin-left: 100px;
     }
     .main, body {
     width: fit-content;
@@ -234,10 +234,11 @@ p {
           padding: 0;
           overflow: hidden;
           float: right;
+          display: inline-block;
     }
 }
 @media only screen and (min-width: 900px) {
-    #vid, body{
+    #vid{
         flex-direction: row;
         margin-bottom: 0;
         width: fit-content;
