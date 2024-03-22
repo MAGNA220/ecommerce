@@ -223,7 +223,7 @@ p {
     #vid {
         margin-bottom: 0;
         margin-right: 300px;
-         width: 450px;
+        justify-content: center;
     }
     .main, body {
     width: fit-content;
@@ -235,7 +235,7 @@ p {
           padding: 0;
           overflow: hidden;
           float: right;
-          justify-content: flex-end;
+          justify-content: space-evenly;
     }
 }
 @media only screen and (min-width: 900px) {
