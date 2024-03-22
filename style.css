@@ -172,9 +172,9 @@ p {
     }
 }
 .logo {
-    width: 150px;
-    height: 150px;
-    float:left;
+    width: 100px;
+    height: 100px;
+    margin-left: 0;
 }
     .nav_links li, nav, nav ul li, ul li a{
         display: inline-block;
