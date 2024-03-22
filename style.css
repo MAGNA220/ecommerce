@@ -215,20 +215,21 @@ p {
         }
 }*/
 @media only screen and (max-width: 600px) {
-    #vid{
+    #vid, body{
         flex direction: row;
     }.
-    #vid{
+    #vid, body{
         margin-bottom: 0;
     }
-    .main {
+    .main, body {
     width: fit-content;
     margin: auto;
     }
 }
 @media only screen and (min-width: 900px) {
-    #vid{
+    #vid, body{
         flex-direction: row;
         margin-botoom: 0;
+        width: fit-content;
     }
 }
