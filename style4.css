@@ -157,10 +157,6 @@ p {
     .nav_links li, ul li a {
     font-size: 0.8rem ; 
     }
-    .main{
-        height: 1500px;
-        width: 910px;
-    }
     body{
         background-size: contain;
     }
