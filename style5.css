@@ -254,7 +254,7 @@ header{
     }
     #pa{
         float: none;
-        flex-direction: inherit;
+        text-align: justify;
     }
 } 
 /**@media only screen and (max-width: 600px) {
