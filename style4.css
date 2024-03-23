@@ -162,7 +162,7 @@ p {
     }
 }*/
 @media(max-width: 600px){
-    html, body, .main{
+    body{
         background-size: contain, cover;
         width: 100%;
         margin: 0;
