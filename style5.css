@@ -251,7 +251,10 @@ header{
     .pagination{
     display: inline-block;
     align-items: center;
-}
+    }
+    #pa{
+        float: none;
+    }
 } 
 /**@media only screen and (max-width: 600px) {
     .photos img{
