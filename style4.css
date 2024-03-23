@@ -149,7 +149,7 @@ p {
         margin-left: 12px;
       }
 }*/
-@media (min-width: 900px) {
+/**@media (min-width: 900px) {
     .logo{
         width: 150px;
         height: 100px;
@@ -160,5 +160,5 @@ p {
     body{
         background-size: contain, cover;
     }
-}
+}*/
       
