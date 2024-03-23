@@ -248,13 +248,13 @@ header{
         text-align: center;
         font-size: 8px;    
     }
-    .pagination{
-    display: inline;
+    .pagination, .pagination a{
+    display: flexbox;
     align-items: center;
     }
     #pa{
         float: none;
-        font-size: 10px;
+        flex-direction: inherit;
     }
 } 
 /**@media only screen and (max-width: 600px) {
