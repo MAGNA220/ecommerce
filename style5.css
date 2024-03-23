@@ -230,9 +230,8 @@ header{
         height: 20px 
     }
     #gcash{
-        font-size: 5px;
         width: 120px;
-        height: 15px;
+        height: 20px;
     }
 } 
 /**@media only screen and (max-width: 600px) {
