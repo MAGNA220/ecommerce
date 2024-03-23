@@ -20,7 +20,9 @@ body{
     background-position: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+.forms{
+    margin-top: 0;
+}
 
 .main {
     width: 900px;
