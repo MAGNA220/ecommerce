@@ -217,7 +217,7 @@ header{
     }
 
     .photos img{
-        display: block;
+        display: inline;
         margin-left: 5px;
         width: 140px;
         height: 140px;
