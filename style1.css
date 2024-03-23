@@ -168,7 +168,7 @@ p {
     }
 }*/
 @media (min-width: 900px){
-    .main {
+    .main, .container {
         height: 1400px;
     }
     body{
