@@ -167,13 +167,9 @@ p {
         width:340px;
     }
 }*/
-/**@media (min-width: 900px) {
-    .logo{
-        width: 150px;
-        height: 100px;
+@media (min-width: 900px) {
+    body{
+        background-repeat: unset;
     }
-    .nav_links li, ul li a {
-    font-size: 0.8rem ; 
-    }
-}*/
+}
     
