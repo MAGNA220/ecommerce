@@ -179,7 +179,8 @@ p {
         height: 0px;
     }
     .main{
-        width: 910px;
+       margin-left: 0;
+       margin-bottom: 0;
     }
 }
     
