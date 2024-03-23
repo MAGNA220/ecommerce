@@ -227,6 +227,7 @@ header{
         margin-left: 5px;
         width: 150px;
         height: 150px;
+        align-items: center;
     }
     .main {
         height: 2560px;
