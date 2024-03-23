@@ -1,17 +1,6 @@
 *{
     box-sizing: border-box;
 }
-html> body{
-    height: 98%;
- }
- body{
-    padding: 1%;
-    margin: 0;
-    line-height: 1.4;
- }
- body {
-        display: block;
- }
 body{
     background-image: url(bg.jfif);
     -webkit-backdrop-filter: blur(2px) saturate(150%);
@@ -248,4 +237,28 @@ p {
     font-size: 0.8rem ; 
     }
 }*/
-
+@media (max-width: 600px) {
+    html, body, .main, .container {
+        width: 100%;
+        margin: 0;
+    }
+    .nav_links li, nav, nav ul li, ul li a{
+        display: inline-block;
+        font-size: 12px;
+        padding: 5px;
+    }
+    #p1{
+        font-size: 30px;
+        margin-top: 20px;
+        margin-left: 73px;
+    }
+     #p2{
+       /* padding-left: 15px;
+        padding-right: 15px;*/
+       /* text-align: center;*/
+        font-size: 15px;
+    }
+    #vid{
+        margin-left: 15px;
+    }
+}
