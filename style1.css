@@ -134,7 +134,7 @@ p {
     .left, .main, .right {
       width: 100%;
   }*/
-  @media(max-width: 600px){
+/**  @media(max-width: 600px){
     html, body, .main, .container{
         width: 100%;
         margin: 0;
@@ -166,7 +166,7 @@ p {
         margin-left: 10px;
         width:340px;
     }
-}
+}*/
 /**@media (min-width: 900px) {
     .logo{
         width: 150px;
