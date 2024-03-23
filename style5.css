@@ -226,8 +226,8 @@ header{
     .photos img{
         display: inline;
         margin-left: 25px;
-        width: 140px;
-        height: 140px;
+        width: 130px;
+        height: 130px;
     }
     .main {
         height: 2560px;
