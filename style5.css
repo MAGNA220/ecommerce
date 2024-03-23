@@ -224,7 +224,7 @@ header{
     }
 
     .photos img{
-        display: inline;
+        display: block;
         margin-left: 15px;
         width: 140px;
         height: 140px;
