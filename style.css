@@ -238,7 +238,7 @@ p {
           gap: 10px;
           justify-content: space-between;
     }
-}
+}*/
 @media (min-width: 900px) {
     .logo{
         width: 150px;
@@ -247,13 +247,10 @@ p {
     .nav_links li, ul li a {
     font-size: 0.8rem ; 
     }
-    body{
-        height: 950px;
-    }
-     html, body, .main, .container {
-        width: 100%;
-        margin: 0;
-        height: 100%;
+     body, .main{
+        width: fit-content;
+        margin: auto;
+        height: fit-content;
      }
 }
 @media (min-width: 640px) {
