@@ -167,12 +167,8 @@ p {
         width:340px;
     }
 }*/
-@media (min-width: 900px) {
-    body{
-        background-color:#A0D6B4;
-        background-repeat: no-repeat;
-    }
-    main {
+@media (min-width: 900px){
+    .main {
         height: 100vh;
     }
 }
