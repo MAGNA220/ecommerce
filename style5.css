@@ -242,6 +242,11 @@ header{
         height: 20px;
         font-size: 8px;
     }
+    .desc {
+        padding: 3px;
+        text-align: center;
+        font-size: 8px;    
+    }
 } 
 /**@media only screen and (max-width: 600px) {
     .photos img{
