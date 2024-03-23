@@ -169,7 +169,10 @@ p {
 }*/
 @media (min-width: 900px) {
     body{
-        background-repeat: unset;
+        background-color:#A0D6B4;
     }
-}
+    main {
+        height: 100px;
+    }
+}}
     
