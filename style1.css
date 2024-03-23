@@ -167,12 +167,5 @@ p {
         width:340px;
     }
 }*/
-@media (min-width: 900px){
-    .main, .container {
-        height: 1400px;
-    }
-    body{
-        background:#A0D6B4;
-    }
-}
+
     
