@@ -224,7 +224,7 @@ header{
 
     .photos img{
         display: inline;
-        margin-left: 25px;
+        margin-left: 20px;
         width: 150px;
         height: 150px;
         align-items: center;
@@ -251,10 +251,10 @@ header{
     .pagination{
     display: inline;
     align-items: center;
-    text-align: center;
     }
     #pa{
         float: none;
+        font-size: 10px;
     }
 } 
 /**@media only screen and (max-width: 600px) {
