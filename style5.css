@@ -21,7 +21,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .forms{
-    margin-top: 20px;
+    padding: 0;
     margin-bottom: 20px;
     justify-content: space-around;
     display: flex;
