@@ -175,12 +175,5 @@ p {
     .nav_links li, ul li a {
     font-size: 0.8rem ; 
     }
-    body{
-        height: 0px;
-    }
-    .main{
-       margin-left: 0;
-       margin-bottom: 0;
-    }
 }
     
