@@ -158,7 +158,7 @@ p {
     font-size: 0.8rem ; 
     }
     body{
-        background-size: contain;
+        background-size: contain, cover;
     }
 }
       
