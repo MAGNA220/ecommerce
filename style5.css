@@ -85,13 +85,6 @@ header{
     border-radius: 5px;
     border: solid rgb(40, 41, 42);
 }
-.desc {
-    padding-top: 0;
-    padding: 10px;
-    text-align: center;
-    font-size: 15px;    
-    /*text-shadow: 0 0 5px rgb(242, 234, 234);*/
-}
 .arts {
     padding: 0 6px;
     float: left;
@@ -232,10 +225,9 @@ header{
     .main {
         height: 2560px;
     }
-    .forms {
-        width: fit-content;
-        text-align: center;
-        font-size: 8px;    
+    #desc {
+        width: 140px;
+        height: 140px 
     }
 } 
 /**@media only screen and (max-width: 600px) {
