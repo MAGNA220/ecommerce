@@ -232,8 +232,8 @@ header{
     .main {
         height: 2560px;
     }
-    .desc {
-        padding: 3px;
+    .forms {
+        width: fit-content;
         text-align: center;
         font-size: 8px;    
     }
