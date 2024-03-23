@@ -21,8 +21,8 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .forms{
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     justify-content: space-around;
     display: flex;
     align-items: center;
