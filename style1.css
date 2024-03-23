@@ -176,10 +176,10 @@ p {
     font-size: 0.8rem ; 
     }
     body{
-        height: fit-content;
+        height: 0px;
     }
     .main{
-        width: 905px;
+        width: 910px;
     }
 }
     
