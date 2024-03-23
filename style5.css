@@ -249,6 +249,6 @@ header{
 @media only screen and (min-width: 900px) {
     .photos img {
         flex-direction: row;
-        margin-botoom: 0;
+        margin-bottom: 0;
     }
 }
