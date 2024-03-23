@@ -239,7 +239,7 @@ p {
           justify-content: space-between;
     }
 }*/
-@media (min-width: 900px) {
+/**@media (min-width: 900px) {
     .logo{
         width: 150px;
         height: 100px;
@@ -247,5 +247,5 @@ p {
     .nav_links li, ul li a {
     font-size: 0.8rem ; 
     }
-}
+}*/
 
