@@ -211,6 +211,11 @@ header{
     background-color: hsl(0, 0%, 77%);
     border-radius: 5px;
 }
+#pa{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: justify;
+}
 @media(max-width: 600px){
     html, body, .main, .container{
         width: 100%;
