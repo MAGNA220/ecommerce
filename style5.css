@@ -22,7 +22,7 @@ body{
 }
 .forms{
     padding: 0;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     justify-content: space-around;
     display: flex;
     align-items: center;
@@ -242,7 +242,7 @@ header{
         align-items: center;
     }
     .main {
-        height: 2560px;
+        height: 2000px;
     }
     #desc {
         font-size: 8px;
