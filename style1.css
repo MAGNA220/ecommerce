@@ -14,7 +14,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .main {
-    width: 900px;
+    width: 905px;
     margin: auto;
     display: flexbox;
     background-color: #A0D6B4;
@@ -172,7 +172,7 @@ p {
         background-color:#A0D6B4;
     }
     main {
-        height: 100px;
+        height: 100vh;
     }
-}}
+}
     
