@@ -116,23 +116,23 @@ input[type=text], select, textarea {
     margin-top: 1px;
     margin-bottom: 0%;
 }*/
-.news{
+/**.news{
   /*  width: 100px;
     align-items: center;
     flex-direction: column;*/
     position: relative;
-}
-.colt {
+}*/
+/**.colt {
     margin-top: 0%;
     margin-left: 363px;
     position: absolute;
     width: 172px;
-  }
-.control{
+  }*/
+/**.control{
     width: 150px;
     height: 3px;
     justify-content: center;
-}
+}*/
 .social{
     text-align: left;
     margin-left: 10px;
