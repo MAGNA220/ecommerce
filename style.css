@@ -246,6 +246,7 @@ p {
         display: flexbox;
         align-items: center;
         margin-left: 50px;
+        text-align: center;
     }
     .nav_links li, nav, nav ul li, ul li a{
         display: inline-block;
