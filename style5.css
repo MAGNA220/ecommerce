@@ -253,7 +253,8 @@ header{
     #gcash{
         width: 120px;
         height: 20px;
-        font-size: 8px;
+        font-size: 7px;
+        font-weight: bold;
     }
     .desc {
         padding: 3px;
