@@ -104,7 +104,19 @@ input[type=text], select, textarea {
     cursor: pointer;
   } 
 .news{
-    padding: 5px 3px;
+    padding: 3px 3px;
+
+.colt{
+    /*width:100px;*/
+    align-items: center;
+    display: inline;
+}
+.control{
+    width: 172px;
+    align-items: center;
+    height: 1px;
+    margin-top: 1px;
+    margin-bottom: 0%;
 }
 .social{
     text-align: left;
