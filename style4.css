@@ -104,9 +104,6 @@ input[type=text], select, textarea {
     border-radius: 4px;
     cursor: pointer;
   } 
-.news{
-    padding: 3px 3px;
-
 .colt{
     /**width:100px;*/
     align-items: center;
