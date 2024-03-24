@@ -242,6 +242,9 @@ p {
         width: 100%;
         margin: 0;
     }
+    .logo{
+        display: inline;
+    }
     .nav_links li, nav, nav ul li, ul li a{
         display: inline-block;
         font-size: 12px;
