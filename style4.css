@@ -104,17 +104,34 @@ input[type=text], select, textarea {
     border-radius: 4px;
     cursor: pointer;
   } 
-.colt{
+/**.colt{
     /**width:100px;*/
     align-items: center;
     display: inline;
-}
-.control{
+}*/
+/**.control{
     width: 172px;
     align-items: center;
     height: 1px;
     margin-top: 1px;
     margin-bottom: 0%;
+}*/
+.news{
+  /*  width: 100px;
+    align-items: center;
+    flex-direction: column;*/
+    position: relative;
+}
+.colt {
+    margin-top: 0%;
+    margin-left: 363px;
+    position: absolute;
+    width: 172px;
+  }
+.control{
+    width: 150px;
+    height: 3px;
+    justify-content: center;
 }
 .social{
     text-align: left;
