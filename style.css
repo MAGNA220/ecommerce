@@ -245,6 +245,7 @@ p {
     .logo{
         display: flexbox;
         align-items: center;
+        margin-left: 50px;
     }
     .nav_links li, nav, nav ul li, ul li a{
         display: inline-block;
