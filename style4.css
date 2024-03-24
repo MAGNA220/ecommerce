@@ -152,9 +152,6 @@ p {
         width: 100%;
         margin: 0;
     }
-      .main{
-          height:1500px;
-      }
        .logo{
         display: flexbox;
         align-items: center;
@@ -167,7 +164,7 @@ p {
         padding: 5px;
     }
     .main {
-        height: 950px;
+        height: 1150px;
     }
     .hero {
         width:340px;
