@@ -13,8 +13,8 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .main {
-    width: 902px;
-  /**  height: 117vh;*/
+    width: 900px;
+   /* height: 117vh;*/
     margin: auto;
     display: flexbox;
     background-color: #A0D6B4;
