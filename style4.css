@@ -14,7 +14,7 @@ body{
 }
 .main {
     width: 900px;
-   height: 117vh;
+   height: 135vh;
     /*height:1400px;*/
     margin: auto;
     display: flexbox;
