@@ -5,6 +5,7 @@ body{
     background-image:  url(bg.jfif);
     -webkit-backdrop-filter: blur(2px) saturate(150%);
     backdrop-filter: blur(2px) saturate(150%);
+    position: relative;
     height: 100vh;
     margin-top: 0;
     margin-bottom: 0;
