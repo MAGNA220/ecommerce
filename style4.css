@@ -175,7 +175,8 @@ p {
       }
     .colt{
         margin-left: 0%;
-        position: absolute;
+        position: relative;
+        align-items: center;
     }      
 }
 /**@media (min-width: 900px) {
