@@ -173,6 +173,10 @@ p {
         width:340px;
         margin-left: 12px;
       }
+    .colt{
+        margin-left: 0%;
+        position: absolute;
+    }      
 }
 /**@media (min-width: 900px) {
     .logo{
