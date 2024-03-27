@@ -15,7 +15,7 @@ body{
 }
 .main {
     width: 900px;
-   height: 150vh;
+   height: 170vh;
     /*height:1400px;*/
     margin: auto;
     display: flexbox;
@@ -174,7 +174,8 @@ p {
         margin-left: 12px;
       }
     .colt{
-         margin-left: 250px;
+         margin-right: 300px;
+         margin-left: 300px;
         position: relative;
         align-items: center;
     }      
