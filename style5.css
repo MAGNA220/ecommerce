@@ -101,7 +101,8 @@ header{
 .photos img{
     transition: 0.4s;
     aspect-ratio: 1/1;
-    object-fit: cover;
+    object-fit: contain;
+    background-color: rgb(169, 205, 235);
   }
 .arts {
     padding: 0 6px;
