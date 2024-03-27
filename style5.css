@@ -96,7 +96,7 @@ header{
     overflow: visible;
 }
 .photos:hover img{
-  transform: scale(1.2);
+  transform: scale(1.1);
   }
 .photos img{
     transition: 0.4s;
