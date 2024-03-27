@@ -167,7 +167,7 @@ p {
         padding: 5px;
     }
     .main {
-        height: 1150px;
+        height: 1300px;
     }
     .hero {
         width:340px;
@@ -175,7 +175,7 @@ p {
       }
     .colt{
          margin-left: 200px;
-        position: relative;
+        position: fixed;
         align-items: center;
     }      
 }
