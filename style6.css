@@ -92,6 +92,20 @@ header{
     border-radius: 5px;
     border: solid rgb(40, 41, 42);
 }
+}
+.photos{
+    overflow: visible;
+}
+  
+  .photos:hover img{
+  transform: scale(1.2);
+  }
+  .photos img{
+    transition: 0.4s;
+    aspect-ratio: 1/1;
+    object-fit: contain;
+    background-color: rgb(169, 205, 235);
+  }
 .arts {
     padding: 0 6px;
     float: left;
