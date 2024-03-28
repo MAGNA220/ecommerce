@@ -108,6 +108,9 @@ p{
     text-align: left;
     margin-left: 10px;
 }
+.social a:hover{
+    transform:rotate3d(0, 0, 1, 360deg) scale(1.06);
+}
 #fb {
     width: 20px;
     height: 20px;
