@@ -187,12 +187,10 @@ p {
         width:340px;
         margin-left: 12px;
       }
-      .map{
-          position: relative;
-      }
-      .map iframe{
+      .responsive-iframe{
           margin: 0 auto;
           text-align: center;
+          position: absolute;
       }
 }
 
