@@ -187,13 +187,10 @@ p {
         width:340px;
         margin-left: 12px;
       }
-    .map{
-       display: flexbox;
-       align-items: center;
+    #map{
+        margin-left: auto;
+        margin-right: auto
+        width: 800px;
     }
-     #map{
-         width: 200px;
-         height: 200px;
-     }
 }
 
