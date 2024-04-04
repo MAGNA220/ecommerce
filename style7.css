@@ -190,11 +190,11 @@ p {
         width:340px;
         margin-left: 12px;
       }
-      .responsive-iframe{
+      .responsive-iframe iframe{
           margin: 0 auto;
           text-align: center;
-          position: absolute;
-          overflow: hidden;
+          width: 100%;
+          height: 100%;
       }
 }
 
