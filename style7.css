@@ -188,11 +188,9 @@ p {
         margin-left: 12px;
       }
     .map{
-        flex-direction: center;
+       display: flexbox;
+       align-items: center;
     }
-     #map{
-         width:200px;
-         height: 200px;
-     }
+     
 }
 
