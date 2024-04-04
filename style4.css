@@ -125,6 +125,9 @@ input[type=text], select, textarea {
 .social{
     text-align: left;
     margin-left: 10px;
+    align-content: center;
+    display: inline-block;
+    margin-top: 50px;
 }
 #fb {
     width: 20px;
