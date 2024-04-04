@@ -187,8 +187,9 @@ p {
         width:340px;
         margin-left: 12px;
       }
-      iframe{
+      .map iframe{
           margin: 0 auto;
+          text-align: center;
       }
 }
 
