@@ -180,10 +180,15 @@ p {
         padding: 5px;
     }
     .main {
-        height: 950px;
+        height: 1400px;
     }
     .hero {
         width:340px;
         margin-left: 12px;
       }
+    .map{
+        margin-left: 50px;
+        margin-bottom: 30px;
+    }
 }
+
