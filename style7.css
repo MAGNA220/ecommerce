@@ -188,8 +188,7 @@ p {
         margin-left: 12px;
       }
     #map{
-        margin-left: 50px;
-        margin-bottom: 30px;
+        flex-direction: center;
     }
 }
 
