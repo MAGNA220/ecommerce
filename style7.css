@@ -187,6 +187,9 @@ p {
         width:340px;
         margin-left: 12px;
       }
+      .map{
+          position: relative;
+      }
       .map iframe{
           margin: 0 auto;
           text-align: center;
