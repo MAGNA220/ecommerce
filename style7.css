@@ -113,6 +113,7 @@ input[type=text], select, textarea {
   /*  width: 100px;
     align-items: center;
     flex-direction: column;*/
+    margin-top: 50px;
     position: relative;
 }
 .colt {
