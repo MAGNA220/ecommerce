@@ -191,12 +191,12 @@ p {
          margin-left: 103px;
     }  
       .map{
-          margin: 0;
+          margin-right:50px;
           width: 250px;
           height: 250px;
       }
        .responsive-iframe{
-           margin-right: auto;
+           margin-right: 100px;
        }
 }
 /**@media (min-width: 900px) {
