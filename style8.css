@@ -168,7 +168,6 @@ p {
 }
 .map{
     max-width: 500px;
-    border: 2px solid white;
 }
 .responsive-iframe{
     width: 100%;
