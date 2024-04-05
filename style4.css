@@ -190,14 +190,14 @@ p {
     .colt{
          margin-left: 103px;
     }  
-      .map{
+    /*  .map{
           margin-right:50px;
           width: 250px;
           height: 250px;
       }
        .responsive-iframe{
            margin-right: 100px;
-       }
+       }*/
 }
 /**@media (min-width: 900px) {
     .logo{
