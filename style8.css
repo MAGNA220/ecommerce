@@ -137,7 +137,7 @@ align-self: self-start;
     display: flex;
     flex-direction: row;
     /*display: inline-block;*/
-    margin-top: 50px;
+    margin-top: 25px;
 }
 #fb {
     width: 20px;
