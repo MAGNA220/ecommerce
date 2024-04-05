@@ -112,9 +112,9 @@ input[type=text], select, textarea {
     display: inline;
 }*/
 .news{
-   width: 100px;
+  /* width: 100px;
     align-items: center;
-    flex-direction: column;
+    flex-direction: column;*/
     position: relative;
 }
 .colt {
