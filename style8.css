@@ -1,0 +1,190 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image:  url(bg.jfif);
+    -webkit-backdrop-filter: blur(2px) saturate(150%);
+    backdrop-filter: blur(2px) saturate(150%);
+    height: 100vh;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-size: contain, cover;
+    background-position: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main {
+    width: 900px;
+   /* height: 117vh;*/
+    margin: auto;
+    display: flexbox;
+    background-color: #A0D6B4;
+}
+.container {
+    width: 100%;
+    display: block;
+}
+
+.logo {
+    width: 250px;
+    height: 150px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.nav_links li {
+    display: inline;  
+    padding: 20px; 
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+nav ul li a:hover{
+    color: blue;
+    transition: .3s;
+}
+ul li a{
+    text-decoration: none;
+    display: inline;   
+    color: black;
+    font-weight: bold;
+}
+ul li a.active{
+    /* background-color: hsl(195, 70%, 47%);*/
+     color: blue;
+     font-weight: bold;
+     border-radius: 5px;
+ }
+p{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+    text-shadow: 0 0 5px whitesmoke;
+}
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px 20px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  input[type=text]:hover {
+    background-color: #c4d7e2;
+  }
+  
+  /* Add a background color and some padding around the form */
+  .hero {
+    max-width:350px;
+    height: 420px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 5px 3px;
+    margin-left: 20px;
+
+  }
+  
+  input[type=button]{
+    width: 200%;
+    background-color: #bce6e8;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  } 
+/**.colt{
+    width:100px;
+    align-items: center;
+    display: inline;
+}*/
+.news{
+  /*  width: 100px;
+    align-items: center;
+    flex-direction: column;*/
+    position: relative;
+}
+.colt {
+    margin-top: 0%;
+    margin-left: 363px;
+    position: absolute;
+    width: 172px;
+  }
+.control{
+    width: 150px;
+    height: 3px;
+    justify-content: center;
+}
+
+.social{
+    text-align: left;
+    margin-left: 10px;
+align-self: self-start;
+    display: inline-block;
+    margin-top: 50px;
+}
+#fb {
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    
+}
+/*.social{
+    padding-top: 50px;
+    flex-direction: row;
+    align-items: start;
+ text-align: start;
+}*/
+p {
+    font-style: italic;
+}
+.map{
+   flex-direction: column;
+   float: right;
+   margin-right: 60px;
+   margin-top: 100px;
+    
+}
+#insta{
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    
+}
+#footer{
+    text-align: center;
+    font-size: small;
+    border-bottom: 10px;
+    color: rgb(43, 34, 2);
+}
+
+  @media(max-width: 600px){
+    html, body, .main, .container{
+        width: 100%;
+        margin: 0;
+    }
+    .nav_links li, nav, nav ul li, ul li a{
+        display: inline-block;
+        font-size: 12px;
+        padding: 5px;
+    }
+    .main {
+        height: 950px;
+    }
+    .hero {
+        width:340px;
+        margin-left: 12px;
+      }
+}
+      
