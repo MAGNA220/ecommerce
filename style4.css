@@ -134,10 +134,10 @@ input[type=text], select, textarea {
     height: 20px;
     border-radius: 5px;
 }
-/*.social{
+.social{
     padding-top: 50px;
 
-}*/
+}
 p {
     font-style: italic;
 }
