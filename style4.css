@@ -109,7 +109,7 @@ input[type=text], select, textarea {
   /*  width: 100px;
     align-items: center;
     flex-direction: column;*/
-    position: absolute;
+    position: relative;
 }
 .colt{
     margin-top: 0%;
@@ -146,11 +146,11 @@ p {
     max-width: 500px;
     border: 2px solid white;
    float: right;
-   margin-right: 80px;
+   margin-right: 110px;
    margin-top: 100px;    
 }
 .responsive-iframe{
-    width: 100%;
+    width: 110%;
 }
 #insta{
     width: 20px;
