@@ -195,7 +195,9 @@ p {
           width: 250px;
           height: 250px;
       }
-          
+       .responsive-iframe{
+           width: 0;
+       }
 }
 /**@media (min-width: 900px) {
     .logo{
