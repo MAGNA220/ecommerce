@@ -164,8 +164,11 @@ p {
 #insta{
     width: 20px;
     height: 20px;
-    border-radius: 5px;
-    
+    border-radius: 5px;   
+}
+.map{
+    max-width: 500px;
+    border: 2px solid white;
 }
 .responsive-iframe{
     width: 100%;
