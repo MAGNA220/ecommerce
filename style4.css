@@ -143,11 +143,11 @@ p {
 }
 /*.map{
   /* flex-direction: column;*/
-    max-width: 500px;
-    border: 2px solid white;
+  /*  max-width: 500px;*/
+ /*   border: 2px solid white;*/
    /*float: right;*/
-   margin-right: 115px;
-   margin-top: 100px;    
+  /* margin-right: 115px;*/
+  /* margin-top: 100px;   */ 
 }*/
 /*.responsive-iframe{
     width: 100%;
