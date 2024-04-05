@@ -134,7 +134,9 @@ input[type=text], select, textarea {
     text-align: left;
     margin-left: 10px;
 align-self: self-start;
-    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    /*display: inline-block;*/
     margin-top: 50px;
 }
 #fb {
