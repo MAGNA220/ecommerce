@@ -156,7 +156,6 @@ p {
 }
 .map{
    flex-direction: column;
-   float: right;
  /*  margin-right: 40px;*/
    margin-top: 50px;
    float: none; 
