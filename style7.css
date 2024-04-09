@@ -14,7 +14,7 @@ body{
 }
 .main {
     width: 900px;
-    height: 1800px;
+    height: 1500px;
     margin: auto;
     display: flexbox;
     background-color: #A0D6B4;
@@ -191,7 +191,7 @@ p {
         padding: 5px;
     }
     .main {
-        height: 1400px;
+        height: 1800px;
     }
     .hero {
         width:340px;
