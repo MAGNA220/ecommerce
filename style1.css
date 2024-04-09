@@ -173,14 +173,5 @@ p {
         width:340px;
     }
 }
-@media only screen{
-(min-device-width : 768px)
-and (max-device-width : 1007px)
-     html, body, .main, .container{
-        width: 100%;
-        margin: 0;
-}
-.main{
-    width: 920px;
-}
-}
+
+  
