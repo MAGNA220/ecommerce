@@ -11,7 +11,7 @@ body{
     margin-top: 0;
     margin-bottom: 0;
     background-size: contain, cover;
-    background-position: center;
+    /*background-position: center;*/
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .main {
