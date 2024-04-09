@@ -261,6 +261,7 @@ header{
     }
     .main {
         height: 2720px;
+        width: auto;
     }
     #desc {
         font-size: 8px;
