@@ -222,7 +222,7 @@ header{
     display: inline-block;
 }
 .pagination a.active{
-    background-color: hsl(120, 100%, 70%);
+    background-color: hsl(252, 92%, 61%);
     font-weight: bold;
     border-radius: 5px;
 }
