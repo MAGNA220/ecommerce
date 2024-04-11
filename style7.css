@@ -147,7 +147,7 @@ input[type=text], select, textarea {
     padding-top: 50px;
     flex-direction: row;
   /*align-items: start;*/
-    text-align: start;
+    text-align: left;
 }
 p {
     font-style: italic;
@@ -186,7 +186,7 @@ p {
     }
     .hero {
         width:340px;
-        margin-left: 20px;
+        margin-left: 21px;
       }
        .colt{
          margin-left: 103px;
