@@ -132,7 +132,6 @@ input[type=text], select, textarea {
 
 .soc{
     text-align: start;
-    margin-left: 10px;
     display: inline-block;
     margin-top: 15px;
     flex-direction: row;
@@ -181,11 +180,11 @@ p {
         padding: 5px;
     }
     .main {
-        height: 1600px;
+        height: 1700px;
     }
     .hero {
         width:340px;
-        margin-left: 12px;
+        margin-left: 20px;
       }
        .colt{
          margin-left: 103px;
