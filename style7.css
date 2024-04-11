@@ -132,16 +132,16 @@ input[type=text], select, textarea {
 
 .soc{
     text-align: start;
-    display: inline-block;
+    display: flex;
     margin-top: 15px;
     flex-direction: row;
-    /*align-items: left;*/
+    align-items: left;
 }
 #fb{
     width: 20px;
     height: 20px;
     border-radius: 5px; 
-    align-items: flex-start;
+    
 }
 .social{
     padding-top: 50px;
@@ -156,7 +156,7 @@ p {
     width: 20px;
     height: 20px;
     border-radius: 5px;    
-    tex-align: left;
+    
 }
 #footer{
     text-align: center;
