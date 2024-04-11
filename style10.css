@@ -80,3 +80,30 @@ ul li a.active{
 .answer {
     display: none;
 }
+ @media(max-width: 600px){
+    html, body, .main, .container{
+        width: 100%;
+        margin: 0;
+    }
+       .logo{
+        display: flexbox;
+        align-items: center;
+        margin-left: 50px;
+        text-align: center;
+    }
+    .nav_links li, nav, nav ul li, ul li a{
+        display: inline-block;
+        font-size: 12px;
+        padding: 5px;
+    }
+    .main {
+        height: 1600px;
+    }
+    .contain {
+        width:340px;
+        margin-left: 12px;
+      }
+       .colt{
+         margin-left: 103px;
+    }  
+    }  
