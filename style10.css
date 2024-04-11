@@ -80,6 +80,37 @@ ul li a.active{
 .answer {
     display: none;
 }
+  }
+.soc{
+text-direction: inline;
+display: flex;
+}
+  .social{
+    text-align: left;
+    margin-left: 10px;
+}
+#fb {
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+}
+/*.social{
+    padding-top: 20px;
+}*/
+p {
+    font-style: italic;
+}
+#insta{
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+}
+#footer{
+    text-align: center;
+    font-size: small;
+    border-bottom: 10px;
+    color: rgb(43, 34, 2);
+}
  @media(max-width: 600px){
     html, body, .main, .container{
         width: 100%;
