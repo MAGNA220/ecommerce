@@ -153,7 +153,7 @@ p {
     #img1 {
         float: none;
         padding-top: 0;
-        margin-left: 10px;
+        margin-left: 15px;
         width:340px;
     }
     #p1{
@@ -169,7 +169,7 @@ p {
     }
     #img2 {
         float: none;
-        margin-left: 10px;
+        margin-left: 15px;
         width:340px;
     }
 }
