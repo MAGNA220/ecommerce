@@ -149,6 +149,7 @@ input[type=text], select, textarea {
     flex-direction: row;
   /*align-items: start;*/
     text-align: left;
+    margin-left: 10px;
 }
 p {
     font-style: italic;
