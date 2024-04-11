@@ -1,0 +1,130 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url(bg.jfif);
+    -webkit-backdrop-filter: blur(2px) saturate(150%);
+    backdrop-filter: blur(2px) saturate(150%); 
+    background-attachment: fixed;
+    height: 100vh;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-size: contain, cover;
+    background-position: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main {
+    width: 900px;
+    margin: auto;
+    display: flexbox;
+    background-color: #A0D6B4;
+}
+.container {
+    width: 100%;
+    display: block;
+}
+
+.logo {
+    width: 250px;
+    height: 150px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.nav_links li {
+    display: inline;  
+    padding: 20px; 
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+nav ul li a:hover{
+    color: blue;
+    transition: .3s;
+}
+ul li a{
+    text-decoration: none;
+    display: inline;   
+    color: black;
+    font-weight: bold;
+}
+ul li a.active{
+    /* background-color: hsl(195, 70%, 47%);*/
+     color: blue;
+     font-weight: bold;
+     border-radius: 5px;
+ }
+ h2, h3{
+    margin-left: 10px;
+ }
+ p{
+    margin: 10px;
+    text-align: justify;
+    text-decoration: none;
+    font-family: "Times New Roman", Times, serif;
+ }
+ .soc{
+    text-direction: inline;
+    display: flex;
+    }
+      .social{
+        text-align: left;
+        margin-left: 10px;
+    }
+    #fb {
+        width: 20px;
+        height: 20px;
+        border-radius: 5px;
+    }
+    /*.social{
+        padding-top: 20px;
+    }*/
+    p {
+        font-style: italic;
+    }
+    #insta{
+        width: 20px;
+        height: 20px;
+        border-radius: 5px;
+    }
+    #footer{
+        text-align: center;
+        font-size: small;
+        border-bottom: 10px;
+        color: rgb(43, 34, 2);
+    }
+     @media(max-width: 600px){
+        html, body, .main, .container{
+            width: 100%;
+            margin: 0;
+        }
+           .logo{
+            display: flexbox;
+            align-items: center;
+            margin-left: 50px;
+            text-align: center;
+        }
+        .nav_links li, nav, nav ul li, ul li a{
+            display: inline-block;
+            font-size: 12px;
+            padding: 5px;
+        }
+        .main {
+            height: 2000px;
+        }
+        .contain {
+            width:340px;
+            margin-left: 12px;
+          }
+           .colt{
+             margin-left: 103px;
+        }  
+        
+        }  
