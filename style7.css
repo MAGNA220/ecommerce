@@ -141,7 +141,7 @@ input[type=text], select, textarea {
     width: 20px;
     height: 20px;
     border-radius: 5px; 
-    align-items: start;
+    align-items: flex-start;
 }
 .social{
     padding-top: 50px;
