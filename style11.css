@@ -61,9 +61,13 @@ ul li a{
     /* font-weight: bold;*/
     /* border-radius: 5px;*/
  }*/
- h2{
-    margin: 10px;
- }
+h2 {
+    text-indent: 10px; /* Adjust the value as needed */
+}
+
+h3 {
+    text-indent: 10px; /* Adjust the value as needed */
+}
  p{
     margin: 10px;
     text-align: justify;
