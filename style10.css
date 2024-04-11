@@ -131,7 +131,7 @@ display: flex;
         padding: 5px;
     }
     .main {
-        height: 1600px;
+        height: 1800px;
     }
     .contain {
         width:340px;
@@ -141,6 +141,6 @@ display: flex;
          margin-left: 103px;
     }  
      .answer {
-    font-size: 10px;
+    font-size: 12px;
 }
     }  
