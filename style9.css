@@ -100,6 +100,10 @@ ul li a.active{
   .review p {
     margin: 5px 0;
   }
+.soc{
+text-direction: inline;
+display: flex;
+}
   .social{
     text-align: left;
     margin-left: 10px;
