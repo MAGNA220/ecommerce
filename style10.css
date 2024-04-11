@@ -99,6 +99,7 @@ display: flex;
     width: 20px;
     height: 20px;
     border-radius: 5px;
+    font-size: 10px;
 }
 /*.social{
     padding-top: 20px;
