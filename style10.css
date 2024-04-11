@@ -61,7 +61,12 @@ ul li a.active{
      font-weight: bold;
      border-radius: 5px;
  }
-
+p{
+    margin: 10px;
+    text-align: justify;
+    text-decoration: none;
+    font-family: "Times New Roman", Times, serif;
+ }
 .faq-container {
     max-width: 800px;
     margin: 0 auto;
