@@ -131,10 +131,11 @@ input[type=text], select, textarea {
 }
 
 .soc{
-    text-align: left;
+    text-align: start;
     margin-left: 10px;
     display: inline-block;
     margin-top: 15px;
+    flex-direction: row;
     /*align-items: left;*/
 }
 #fb{
