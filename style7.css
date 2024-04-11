@@ -131,7 +131,7 @@ input[type=text], select, textarea {
 }
 
 .soc{
-    margin-right: 200px;;
+    margin-right: -200px;;
     display: flex;
     margin-top: 15px;
     flex-direction: row;
