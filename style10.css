@@ -127,7 +127,7 @@ p {
         padding: 5px;
     }
     .main {
-        height: 2300px;
+        height: 2000px;
     }
     .contain {
         width:340px;
@@ -137,6 +137,6 @@ p {
          margin-left: 103px;
     }  
      .answer {
-    font: 7px;
+    font: 5px;
 }
     }  
