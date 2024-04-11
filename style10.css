@@ -85,6 +85,7 @@ p{
 
 .answer {
     display: none;
+    text-align: justify;
 }
 .soc{
 text-direction: inline;
