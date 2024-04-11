@@ -140,14 +140,13 @@ input[type=text], select, textarea {
 #fb {
     width: 20px;
     height: 20px;
-    border-radius: 5px;
-    
+    border-radius: 5px;    
 }
 .social{
     padding-top: 50px;
     flex-direction: row;
   /*  align-items: start;*/
- text-align: start;
+    text-align: start;
 }
 p {
     font-style: italic;
@@ -166,8 +165,7 @@ p {
 #insta{
     width: 20px;
     height: 20px;
-    border-radius: 5px;
-    
+    border-radius: 5px;    
 }
 #footer{
     text-align: center;
