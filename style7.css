@@ -136,7 +136,7 @@ input[type=text], select, textarea {
   /*  margin-top: 15px;*/
    /* flex-direction: row;*/
     text-align: left;
-    
+    margin-left: 10px;    
 }
 #fb{
     width: 20px;
