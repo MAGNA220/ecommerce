@@ -150,6 +150,9 @@ p {
         font-size: 12px;
         padding: 5px;
     }
+     .main {
+        width: 905px;
+     }
     #img1 {
         float: none;
         padding-top: 0;
