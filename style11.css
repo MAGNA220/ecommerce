@@ -61,8 +61,10 @@ ul li a{
     /* font-weight: bold;*/
     /* border-radius: 5px;*/
  }*/
-
-h2, h3 {
+h2 {
+    text-indent: 10px; /* Adjust the value as needed */
+}
+h3 {
     text-indent: 10px; /* Adjust the value as needed */
 }
  p{
