@@ -128,3 +128,8 @@ h3 {
         }  
         
         }  
+@media screen and (orientation: landscape) {
+    .main {
+        width: 100%; /* Adjust width for landscape orientation */
+    }
+}
