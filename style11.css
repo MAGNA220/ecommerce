@@ -16,7 +16,7 @@ body{
 .main {
     width: 900px;
     margin: auto;
-    display: flex;
+    display: flexbox;
     background-color: #A0D6B4;
 }
 .container {
