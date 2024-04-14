@@ -3,3 +3,6 @@ li{
     display: block;   
     font-weight: bold;
 }
+p{
+    text-align: justify;
+}
