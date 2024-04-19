@@ -118,7 +118,7 @@ p {
     color: rgb(43, 34, 2);
 }
 .javascript {
-     background-attachment: scroll;
+     background-attachment: inherit;
 }
 /**@media (max-width: 600px) {
     html, body, .main, .container {
