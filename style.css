@@ -118,8 +118,7 @@ p {
     color: rgb(43, 34, 2);
 }
 #tidio-chat {
-      /* position: fixed; */
-         background-attachment: fixed;
+       position: relative;
         bottom: 20px; /* Adjust as needed */
         right: 20px; /* Adjust as needed */
         z-index: 9999; /* Ensure it's above other elements */
