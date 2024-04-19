@@ -92,20 +92,20 @@ Your browser does not support mp4 videos, change browser!
 <script src="//code.tidio.co/v7exgkn5r0rinffaqaqvrczkbkbpqgjm.js" async></script>	
 </div>
 
-<script>
+ <script>
     // Function to adjust chatbot position when scrolled
     function adjustChatbotPosition() {
-      var chatbot = document.getElementByClass('javascript');
-      var viewportHeight = window.innerHeight;
-      var scrollY = window.scrollY;
-      var chatbotHeight = chatbot.offsetHeight;
+        var chatbot = document.getElementById('tidio-chat');
+        var viewportHeight = window.innerHeight;
+        var scrollY = window.scrollY;
+        var chatbotHeight = chatbot.offsetHeight;
 
-      // Adjust chatbot position
-      if ((viewportHeight + scrollY) < (chatbotHeight + 20)) { // 20px buffer from bottom
-        chatbot.style.bottom = '20px';
-      } else {
-        chatbot.style.bottom = '';
-      }
+        // Adjust chatbot position
+        if ((viewportHeight + scrollY) < (chatbotHeight + 20)) { // 20px buffer from bottom
+            chatbot.style.bottom = '20px';
+        } else {
+            chatbot.style.bottom = '';
+        }
     }
 
     // Call the function when the page is scrolled
@@ -113,6 +113,6 @@ Your browser does not support mp4 videos, change browser!
 
     // Call the function initially to set chatbot position
     adjustChatbotPosition();
-  </script>		
+  </script>
 </body>
 </html>
